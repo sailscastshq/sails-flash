@@ -1,6 +1,6 @@
 {
   "name": "sails-flash",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple session flash messages for Sails applications",
   "main": "index.js",
   "scripts": {
