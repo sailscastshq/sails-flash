@@ -1,0 +1,19 @@
+{
+  "name": "sails-flash",
+  "version": "0.0.0",
+  "description": "Simple session flash messages for Sails applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kelvin Omereshone<kelvin@sailscasts.com",
+  "license": "MIT",
+  "sails": {
+    "isHook": true,
+    "hookName": "flash"
+  },
+  "dependencies": {
+    "connect-flash": "^0.1.1"
+  }
+}
